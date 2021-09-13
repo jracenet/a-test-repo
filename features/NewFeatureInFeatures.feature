@@ -1,1 +1,1 @@
-Feature: New feature in features
+Feature: Rename feature
