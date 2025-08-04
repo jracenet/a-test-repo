@@ -74,4 +74,4 @@ return <StandardDetails standard={standard} orgSlug={organization.slug} />;
 
 ---
 
-*This standard was automatically generated from version 1.*
+*This standard was automatically generated from version 2.*
