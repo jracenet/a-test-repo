@@ -1,0 +1,4 @@
+---
+alwaysApply: true
+---
+Apply the coding rules defined in @.packmind/standards/frontend-data-flow.md
